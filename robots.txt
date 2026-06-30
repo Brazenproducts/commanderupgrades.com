@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
+
 Sitemap: https://commanderupgrades.com/sitemap.xml
